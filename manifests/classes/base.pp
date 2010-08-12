@@ -10,3 +10,5 @@ class sudo::base {
     mode   => 440,
   }
 }
+
+
